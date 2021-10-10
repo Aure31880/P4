@@ -1,3 +1,32 @@
+/*  MODIFICATIONS */
+
+/* BLOC 2 SERVICES */
+.bloc2-boxTitle {
+    padding-left: 180px;
+    padding-right: 180px;
+}
+
+.bloc-title {
+    font-weight: bold;
+}
+
+.text-size {
+    font-size: 13px;
+}
+
+/* BLOC 4 */
+.bloc4-boxTitle {
+    padding-left: 280px;
+    padding-right: 280px;
+}
+
+/* FOOTER */
+.title-list-footer {
+    color: #FFFFFF !important;
+}
+
+
+
 body {
     margin: 0;
     padding: 0;
@@ -5,6 +34,10 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+ul li {
+    list-style: none;
+
 }
 
 a,
@@ -438,6 +471,7 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    position: relative;
 }
 
 .mg-lg {
@@ -677,7 +711,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
@@ -753,7 +787,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(165, 147, 99, 0.781);
     padding: 40px 40px 40px 40px;
 }
 
@@ -775,7 +809,9 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #f3976c!important; 
+    /* color: #FFFFFF !important; */
+    position: relative;
 }
 
 .btn-atomic-tangerine {
