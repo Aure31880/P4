@@ -497,6 +497,7 @@ nav .caret {
 
 .btn {
     margin: 0 5px 5px 0;
+    width: auto;
 }
 
 .btn.pull-right {
