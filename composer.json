@@ -1,0 +1,13 @@
+{
+    "name": "chouette/project",
+    "authors": [
+        {
+            "name": "Aure31880",
+            "email": "barbotin48@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "matthiasmullie/minify": "^1.3"
+    }
+}
